@@ -8,7 +8,7 @@ This repository is the home of User Research within the Open Home Foundation and
 - Enable community researchers to contribute their findings
 - Document research findings openly
 
-### How rersearch work is organized
+### How research work is organized
 
 - The [Project Board](https://github.com/OpenHomeFoundation/user-research/projects) contains all active and planned research tasks
 
