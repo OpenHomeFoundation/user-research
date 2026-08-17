@@ -1,6 +1,6 @@
 # Home Assistant Community Survey 2024 — Descriptive Statistics
 
-Descriptive statistics for every closed-ended question, based on 8,615 valid responses.
+Descriptive statistics for every closed-ended question, based on 8,615 valid responses. Answer options with fewer than 10 responses were merged or omitted to protect respondents' anonymity.
 
 ## About You & Getting Started
 
